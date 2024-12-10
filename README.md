@@ -1,4 +1,4 @@
-# N-Queens Visualization using JavaScript**
+# N-Queens Visualization using JavaScript
 
 ## **Abstract**  
 The N-Queens problem is a classic combinatorial challenge in computer science and mathematics, where the goal is to place N chess queens on an N×N chessboard such that no two queens threaten each other. This project implements a real-time visualization of the N-Queens problem using JavaScript. A web-based interface allows users to input the size of the board, adjust visualization speed, and view all possible solutions interactively.  
